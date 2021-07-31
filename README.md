@@ -7,5 +7,6 @@ Build a robot application that communicates with the robot so that the control o
 
 With the help of Gazebo plugins. We will control the robot and also we will get the Laser Distance Sensor data So that the robot will use SLAM on the Gazebo simulation environment. Test the Gmapping algorithm with SLAM by using an autonomous robot, control the Robot inside the mapped environment.
 
-https://youtube.com/embed/FtZeL41q4fY
+# Project Video
 
+video: https://youtube.com/embed/FtZeL41q4fY

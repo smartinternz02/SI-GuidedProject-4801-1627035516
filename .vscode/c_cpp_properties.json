@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/samarthpatil/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/samarthpatil/catkin_ws/src/my_first_package/include/**",
+        "/home/samarthpatil/mybot_ws/src/mybot_navigation/include/**",
+        "/home/samarthpatil/catkin_ws/src/ros_actions/include/**",
+        "/home/samarthpatil/catkin_ws/src/ros_service/include/**",
+        "/home/samarthpatil/my_ws/src/ros_topics/include/**",
+        "/home/samarthpatil/my_ws/src/sam__package/include/**",
+        "/home/samarthpatil/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/samarthpatil/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/samarthpatil/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
